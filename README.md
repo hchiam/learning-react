@@ -1,3 +1,3 @@
 # Learning React.js
 
-Guessed the URL to find the repo? You probably mean to go here: <https://github.com/hchiam/learning-reactjs>
+Guessed the URL to find the repo? You probably meant to go here: <https://github.com/hchiam/learning-reactjs>
